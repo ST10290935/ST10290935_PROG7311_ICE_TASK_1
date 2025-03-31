@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\reports\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\reports\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\reports\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:views\\reports\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\models\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:models\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\migrations\\20250217091556_taskschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:migrations\\20250217091556_taskschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\migrations\\20250217090832_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:migrations\\20250217090832_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\migrations\\20250303070427_edittaskcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:migrations\\20250303070427_edittaskcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|c:\\users\\aiden\\source\\repos\\prog_3c_task_manager\\migrations\\20250303063812_newattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF295FB7-B511-47D4-AA90-4CD9D745811C}|PROG_3C_Task_Manager.csproj|solutionrelative:migrations\\20250303063812_newattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\tasks\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Delete.cshtml",
+              "RelativeToolTip": "Views\\tasks\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:01:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\tasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Details.cshtml",
+              "RelativeToolTip": "Views\\tasks\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:01:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Create.cshtml",
+              "RelativeToolTip": "Views\\tasks\\Create.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwGsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T09:19:22.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\task.cs",
+              "RelativeDocumentMoniker": "Models\\task.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\task.cs",
+              "RelativeToolTip": "Models\\task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:59:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tasksController.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Controllers\\tasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\tasksController.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Controllers\\tasksController.cs",
+              "RelativeToolTip": "Controllers\\tasksController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:02:31.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T09:03:57.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T06:26:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250303070427_edittaskcon.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250303070427_edittaskcon.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250303070427_edittaskcon.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250303070427_edittaskcon.cs",
+              "RelativeToolTip": "Migrations\\20250303070427_edittaskcon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:04:27.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reports\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T06:29:54.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Index.cshtml",
+              "RelativeToolTip": "Views\\tasks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T06:34:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\tasks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\tasks\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T06:32:45.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reports\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:01:00.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reports\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:00:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reports\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:37:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Views\\Reports\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reports\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T06:43:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Models\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\ReportsController.cs",
+              "RelativeToolTip": "Models\\ReportsController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:37:16.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250303063812_newAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250303063812_newAttribute.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250303063812_newAttribute.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250303063812_newAttribute.cs",
+              "RelativeToolTip": "Migrations\\20250303063812_newAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:38:13.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "Models\\Report.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\Report.cs",
+              "RelativeToolTip": "Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:34:33.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250217091556_taskschange.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250217091556_taskschange.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250217091556_taskschange.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250217091556_taskschange.cs",
+              "RelativeToolTip": "Migrations\\20250217091556_taskschange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:15:56.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250217090832_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250217090832_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250217090832_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Migrations\\20250217090832_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250217090832_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:08:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T09:01:34.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:53:01.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\PROG_3C_Task_Manager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:52:29.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
